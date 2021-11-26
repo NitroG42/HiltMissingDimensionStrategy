@@ -1,5 +1,8 @@
 # Hilt and MissingDimensionStrategy
 
+## Issue Tracker
+https://issuetracker.google.com/issues/207785213
+
 ## Context
 
 The project contains 2 modules, one library module declaring two flavors (free and paid), and one app module that uses the library module.
