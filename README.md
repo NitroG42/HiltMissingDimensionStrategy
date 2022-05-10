@@ -1,5 +1,7 @@
 # Hilt and MissingDimensionStrategy
 
+# Fixed !
+
 ## Issue Tracker
 https://issuetracker.google.com/issues/207785213
 
